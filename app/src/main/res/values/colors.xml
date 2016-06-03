@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+        <color name="primary">#4CAF50</color>
+        <color name="primary_dark">#388E3C</color>
+        <color name="primary_light">#C8E6C9</color>
+        <color name="accent">#388E3C</color>
+        <color name="primary_text">#727272</color>
+        <color name="secondary_text">#B6B6B6</color>
+        <color name="icons">#FFFFFF</color>
+        <color name="divider">#B6B6B6</color>
+
+        <color name="color_activity_bg">#F7F7F7</color>
+        <color name="color_dialog_bg_80">#CC191919</color>
+
+
+        <color name="toast_success">#4CAF50</color>
+        <color name="toast_warning">#FF9900</color>
+        <color name="toast_error">#FF3838</color>
+
+
+        <!--for login button-->
+
+        <!-- Pop up Image picker -->
+        <color name="popup_bg_color">#66000000</color>
+        <color name="color_image_border">#4F5D73</color>
+
+
+        <color name="request_accept">#43C559</color>
+        <color name="request_decline">#FF3B2F</color>
+
+
+        <color name="color_black_transparent">#D9000000</color>
+
+
+
+</resources>
